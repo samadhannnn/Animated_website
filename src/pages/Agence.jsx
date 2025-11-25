@@ -33,7 +33,6 @@ const imageArray = [
         start: "top 20%",
         end: "top -110%",
         markers: false,
-        scrub: true,
         pin: true,
         pinSpacing:true,
         pinReparent:true,
